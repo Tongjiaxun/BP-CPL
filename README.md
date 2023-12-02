@@ -8,8 +8,7 @@
 ## Comparion
 <div align="center">
   <img src="figs/compare_visual.png" width="550" />
-  <em> Performance comparison between BP-CPL (left) and IA-SSD (right).
- </em>
+  <em> Performance comparison between BP-CPL (left) and IA-SSD (right).  </em>
 </div><br/>
 
 ## Citation
